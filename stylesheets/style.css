@@ -1294,24 +1294,25 @@ a.tres {
 }
 .list {
   width: 100%;
-  position: absolute;
+  position: relative;
   padding-left: 0;
   margin-top: 0;
+  top: -55px;
 }
 img.iphone {
   vertical-align: middle;
   width: 100%;
 }
 .iphone-1 {
-  position: absolute;
-  left: 0;
-  top: 9090px;
+  position: relative;
+  left: -51px;
+  top: 0px;
 }
 .touch.hidden-lg {
   height: 630px;
-  position: absolute;
-  top: 9460px;
-  left: 0px;
+  position: relative;
+  top: 100px;
+  left: 37px;
   width: 320px;
   background-image: none;
 }
@@ -1338,10 +1339,11 @@ img.iphone {
 }
 .pais {
   height: 560px;
-  position: absolute;
-  top: 10133px;
+  position: relative;
+  top: 690px;
   overflow: hidden;
   margin-bottom: 0;
+  width: 100%;
 }
 .pais .col-xs-12 {
   width: 100%;
@@ -1350,8 +1352,8 @@ img.iphone {
 footer {
   width: 100%;
   height: 300px;
-  position: absolute;
-  top: 10700px;
+  position: relative;
+  top: 690px;
 }
 .footer-1 h2 {
   font-size: 26px;
