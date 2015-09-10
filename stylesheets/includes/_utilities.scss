@@ -1,0 +1,356 @@
+//Colocar aquí clases utilitarias para todo el sitio. Por ejemplo: márgenes, alineación de texto y color de texto.
+
+/* -------------PADDING------------- */
+
+.p0{
+	padding:0;
+}
+
+.p15{
+	padding: 15px;
+}
+
+.p35{
+	padding: 35px;
+}
+
+/* ------PADDING TOP------*/
+
+.pt10{
+  padding-top: 10px;
+}
+
+.pt20{
+	padding-top: 20px;
+}
+
+.pt30{
+	padding-top: 30px;
+}
+
+.pt40{
+	padding-top: 40px;
+}
+
+.pt60{
+	padding-top:60px;
+}
+
+.pt150{
+	padding-top: 150px;
+}
+
+
+/* ------PADDING BOTTOM------*/
+
+.pb5{
+	padding-bottom: 5px;
+}
+
+.pb10{
+	padding-bottom: 10px;
+}
+
+.pb20{
+	padding-bottom: 20px;
+}
+
+.pb30{
+	padding-bottom: 30px;
+}
+
+.pb40{
+	padding-bottom: 40px;
+}
+
+.pb60{
+	padding-bottom: 60px;
+}
+
+.pb70{
+	padding-bottom: 70px;
+}
+
+
+/* ------PADDING LEFT------ */
+
+.pl33{
+	padding-left:33px;
+}
+
+.pl20{
+	padding-left: 20px;
+}
+
+.pl60{
+	padding-left: 60px;
+}
+
+.pl55{
+	padding-left: 55px;
+}
+
+
+/* ------PADDING RIGHT------ */
+
+.pr33{
+	padding-right:33px;
+}
+
+.pr20{
+	padding-right: 20px;
+}
+
+.pr60{
+	padding-right: 60px;
+}
+
+.pr116{
+	padding-right: 116px;
+}
+
+.pr130{
+	padding-right: 130px;
+}
+  
+/* -------------MARGIN------------- */
+
+/* ------MARGIN TOP------*/
+
+.mt0{
+	margin-top: 0;
+}
+
+.mt20{
+	margin-top: 20px;
+}
+
+.mt40{
+	margin-top: 40px;
+}
+
+.mt60{
+	margin-top: 60px;
+}
+
+.mt70{
+	margin-top: 70px;
+}
+
+.mt80{
+	margin-top: 80px;
+}
+
+
+
+
+/* ------MARGIN BOTTOM------*/
+
+.mb10{
+	margin-bottom: 10px;
+}
+
+.mb20{
+	margin-bottom: 20px;
+}
+
+.mb40{
+	margin-bottom: 40px;
+}
+
+.mb70 {
+	margin-bottom: 70px;
+}
+
+.mb120{
+	margin-bottom: 120px;
+}
+
+.mb20{
+	margin-bottom: 20px;
+}
+
+
+
+/* ------MARGIN LEFT------*/
+
+.ml5{
+  margin-left: 5px;
+}
+
+.ml10{
+  margin-left: 10px;
+}
+
+.ml20{
+  margin-left: 20px;
+}
+
+
+/* -------------SIZE------------- */
+
+.size-28{
+	font-size: 28px;
+}
+
+.size-25{
+	font-size: 25px;
+}
+
+.size-15{
+	font-size: 15px;
+}
+
+.size-17{
+	font-size: 17px;
+}
+
+.size-18{
+	font-size: 18px;
+}
+
+.size-19{
+	font-size: 19px;
+}
+
+.size-20{
+	font-size: 20px;
+}
+
+.size-22{
+	font-size: 22px;
+}
+
+.size-24{
+	font-size: 24px;
+}
+
+/* -------------STYLE TEXT------------- */
+
+.underline{
+	text-decoration: underline;
+}
+
+.style-none{
+	list-style: none;
+}
+
+/* -------------POSITION'S------------- */
+
+.absolute {
+	position: absolute;
+}
+
+.relative{
+	position: relative;
+}
+
+
+/* -------------BACKGROUND'S------------- */
+
+.bgd-tomate{
+	background-color: #ff6a49;	
+	color: white;
+}
+
+.bgd-green{
+	background-color: rgb(119, 210, 72);
+	color: white;
+}
+
+.bgd-grey{
+	background-color: #acabab;
+	color: white;
+}
+
+.bgd-grey-white{
+	background-color: rgb(242, 242, 242);
+}
+
+.bgd-grey-grey{
+	background-color: grey;
+}
+
+.bgd-yellow{
+	background-color: #ffc819;
+	color: white;
+}
+
+.bgd-celeste{
+	background-color: #58C6E7;
+	color: white;
+}
+
+
+/* -------------COLOR'S------------- */
+
+.text-black{
+	color: black;
+}
+
+.clr-celeste{
+	color: #58C6E7;
+}
+
+.text-white{
+	color: white;
+}
+
+.clr-tomate{
+	color: #ff6a49;
+}
+
+.text-yellow{
+	color: #fef07f;
+}
+
+.text-mostaza{
+	color: rgb(255, 193, 2);
+}
+
+
+.text-grey{
+	color: #acabab;
+}
+
+
+/* ------------BORDER'S------------- */
+
+.br-b-dashed-white{
+	border-bottom: 1px dashed white;
+}
+
+.br-b-dashed-grey{
+	border-bottom: 1px dashed #acabab;
+}
+
+.br-b-dashed-tomate{
+	border-bottom: 2px dashed #ff6a49;
+}
+
+.br-r-dashed-white{
+	border-right: 1px dashed white;
+}
+
+
+/* ------------FONT-WEIGHT------------- */
+
+.weight-300{
+	font-weight: 300;
+}
+
+.weight-400{
+	font-weight: 400;
+}
+
+.weight-700{
+	font-weight: 700;
+}
+
+.weight-900{
+	font-weight: 900;
+}
+
+
+
+
